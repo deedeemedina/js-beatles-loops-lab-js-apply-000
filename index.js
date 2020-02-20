@@ -1,3 +1,5 @@
 // add solution here
-var theBeatlesPlay []
-return theBeatlesPlay
+ let theBeatlesPlay = [];
+
+    let musicians = ["John Lennon", "Paul McCartney", "George Harrison", "Ringo Starr"];
+    let instruments = ["Guitar", "Bass Guitar", "Lead Guitar", "Drums"];
